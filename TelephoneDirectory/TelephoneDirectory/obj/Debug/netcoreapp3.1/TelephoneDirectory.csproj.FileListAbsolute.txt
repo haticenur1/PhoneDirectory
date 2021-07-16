@@ -1,0 +1,13 @@
+C:\Users\cozum\source\repos\TelephoneDirectory\TelephoneDirectory\bin\Debug\netcoreapp3.1\TelephoneDirectory.exe
+C:\Users\cozum\source\repos\TelephoneDirectory\TelephoneDirectory\bin\Debug\netcoreapp3.1\TelephoneDirectory.deps.json
+C:\Users\cozum\source\repos\TelephoneDirectory\TelephoneDirectory\bin\Debug\netcoreapp3.1\TelephoneDirectory.runtimeconfig.json
+C:\Users\cozum\source\repos\TelephoneDirectory\TelephoneDirectory\bin\Debug\netcoreapp3.1\TelephoneDirectory.runtimeconfig.dev.json
+C:\Users\cozum\source\repos\TelephoneDirectory\TelephoneDirectory\bin\Debug\netcoreapp3.1\TelephoneDirectory.dll
+C:\Users\cozum\source\repos\TelephoneDirectory\TelephoneDirectory\bin\Debug\netcoreapp3.1\TelephoneDirectory.pdb
+C:\Users\cozum\source\repos\TelephoneDirectory\TelephoneDirectory\obj\Debug\netcoreapp3.1\TelephoneDirectory.csprojAssemblyReference.cache
+C:\Users\cozum\source\repos\TelephoneDirectory\TelephoneDirectory\obj\Debug\netcoreapp3.1\TelephoneDirectory.AssemblyInfoInputs.cache
+C:\Users\cozum\source\repos\TelephoneDirectory\TelephoneDirectory\obj\Debug\netcoreapp3.1\TelephoneDirectory.AssemblyInfo.cs
+C:\Users\cozum\source\repos\TelephoneDirectory\TelephoneDirectory\obj\Debug\netcoreapp3.1\TelephoneDirectory.csproj.CoreCompileInputs.cache
+C:\Users\cozum\source\repos\TelephoneDirectory\TelephoneDirectory\obj\Debug\netcoreapp3.1\TelephoneDirectory.dll
+C:\Users\cozum\source\repos\TelephoneDirectory\TelephoneDirectory\obj\Debug\netcoreapp3.1\TelephoneDirectory.pdb
+C:\Users\cozum\source\repos\TelephoneDirectory\TelephoneDirectory\obj\Debug\netcoreapp3.1\TelephoneDirectory.genruntimeconfig.cache
